@@ -1,0 +1,6 @@
+argparse==1.4.0
+datetime==4.3
+uuid==1.30
+psycopg2==2.9.1
+confluent_kafka==2.0.0
+faker==8.1.0
