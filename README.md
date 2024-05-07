@@ -56,3 +56,6 @@ To access the Grafana monitoring, you need to open your browser and access the f
 http://localhost:3000/
 ```
 ![image alt text](<assets/images/grafana.png>)
+
+## Source 
+I just follow instructions from [Start Data Engineering](https://www.startdataengineering.com/post/data-engineering-project-for-beginners-stream-edition/) to learn how streaming processing work and its application. If you want to learn more about this topic, you can access the link above to more details.
